@@ -1,1 +1,107 @@
+html{
+    width: 100%;
+    background-color: #fff;
+}
+
+body{
+    width: 85%;
+    background-color: #a2a2a2;
+    min-height: 700px;
+    padding-bottom: 1em;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+.datepicker{
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 1.5em 0;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+.accordionwidget{
+    width: 50%;
+    margin: auto;
+    background-color: #fff;
+    padding: 2em 0;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 1em;
+
+}
+#accordion{
+    width: 90%;
+    margin: auto;
+}
+
+.accordionwidget h3{
+text-align: center;
+}
+
+.showDiv{
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 1.5em 0;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}.toggler {
+     width: 255px; 
+     height: 200px; 
+     margin: auto;}
+#button {
+     padding: .5em 1em; 
+     text-decoration: none; }
+#effect { 
+    width: 240px; 
+    height: 170px; 
+    padding: 0.4em; 
+    position: relative; }
+#effect h3 { 
+    margin: 0; 
+    padding: 0.4em; 
+    text-align: center; }
+
+.selectableList{
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 1.5em 0;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+.ResizableSize{
+    text-align: center;
+    margin: auto;
+}
+
+.SpinnerText{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 1.5em 0;
+    margin-bottom: 1em;
+    border-radius: 10px;  
+}
+
+.Droppable{
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 1.5em 0;
+    margin-bottom: 1em;
+    border-radius: 10px;   
+}
 
